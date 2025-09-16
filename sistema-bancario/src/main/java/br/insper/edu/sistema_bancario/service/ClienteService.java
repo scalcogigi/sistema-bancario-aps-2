@@ -1,13 +1,10 @@
 package br.insper.edu.sistema_bancario.service;
 
 import br.insper.edu.sistema_bancario.model.Cliente;
-import br.insper.edu.sistema_bancario.model.ContaCorrente;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.server.ResponseStatusException;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
