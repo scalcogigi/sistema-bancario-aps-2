@@ -1,4 +1,4 @@
-package br.insper.edu.sistema_bancario.autenticacao;
+package br.insper.edu.sistema_bancario.usuario;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

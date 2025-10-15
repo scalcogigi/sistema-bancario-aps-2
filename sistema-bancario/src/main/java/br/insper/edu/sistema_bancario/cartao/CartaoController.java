@@ -1,10 +1,7 @@
-package br.insper.edu.sistema_bancario.controller;
+package br.insper.edu.sistema_bancario.cartao;
 
-import br.insper.edu.sistema_bancario.model.Cartao;
-import br.insper.edu.sistema_bancario.service.CartaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.Collection;
 
 @RestController

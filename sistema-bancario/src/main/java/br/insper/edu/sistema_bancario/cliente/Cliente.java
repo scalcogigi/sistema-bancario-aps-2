@@ -1,4 +1,6 @@
-package br.insper.edu.sistema_bancario.model;
+package br.insper.edu.sistema_bancario.cliente;
+
+import br.insper.edu.sistema_bancario.contaCorrente.ContaCorrente;
 
 import java.time.LocalDate;
 

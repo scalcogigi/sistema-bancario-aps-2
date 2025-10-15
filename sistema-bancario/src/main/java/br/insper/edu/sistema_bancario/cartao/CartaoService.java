@@ -1,6 +1,5 @@
-package br.insper.edu.sistema_bancario.service;
+package br.insper.edu.sistema_bancario.cartao;
 
-import br.insper.edu.sistema_bancario.model.Cartao;
 import org.springframework.stereotype.Service;
 import java.util.*;
 

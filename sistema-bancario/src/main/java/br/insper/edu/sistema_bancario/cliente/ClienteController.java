@@ -1,7 +1,5 @@
-package br.insper.edu.sistema_bancario.controller;
+package br.insper.edu.sistema_bancario.cliente;
 
-import br.insper.edu.sistema_bancario.model.Cliente;
-import br.insper.edu.sistema_bancario.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

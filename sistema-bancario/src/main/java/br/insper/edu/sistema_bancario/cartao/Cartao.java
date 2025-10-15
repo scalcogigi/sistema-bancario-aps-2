@@ -1,4 +1,4 @@
-package br.insper.edu.sistema_bancario.model;
+package br.insper.edu.sistema_bancario.cartao;
 
 import java.time.LocalDate;
 

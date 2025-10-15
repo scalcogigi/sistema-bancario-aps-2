@@ -1,4 +1,4 @@
-package br.insper.edu.sistema_bancario.autenticacao;
+package br.insper.edu.sistema_bancario.usuario;
 
 public class Usuario {
     private String email;

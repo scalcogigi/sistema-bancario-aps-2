@@ -1,7 +1,6 @@
-package br.insper.edu.sistema_bancario.service;
+package br.insper.edu.sistema_bancario.contaCorrente;
 
-import br.insper.edu.sistema_bancario.model.ContaCorrente;
-import br.insper.edu.sistema_bancario.model.Movimentacao;
+import br.insper.edu.sistema_bancario.movimentacao.Movimentacao;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;

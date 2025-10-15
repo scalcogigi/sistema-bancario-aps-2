@@ -1,4 +1,4 @@
-package br.insper.edu.sistema_bancario;
+package br.insper.edu.sistema_bancario.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

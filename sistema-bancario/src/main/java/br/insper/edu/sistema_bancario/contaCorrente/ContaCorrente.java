@@ -1,4 +1,7 @@
-package br.insper.edu.sistema_bancario.model;
+package br.insper.edu.sistema_bancario.contaCorrente;
+
+import br.insper.edu.sistema_bancario.cartao.Cartao;
+import br.insper.edu.sistema_bancario.movimentacao.Movimentacao;
 
 import java.util.ArrayList;
 import java.util.Collections;

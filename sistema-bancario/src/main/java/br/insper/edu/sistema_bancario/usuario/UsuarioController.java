@@ -1,4 +1,4 @@
-package br.insper.edu.sistema_bancario.autenticacao;
+package br.insper.edu.sistema_bancario.usuario;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

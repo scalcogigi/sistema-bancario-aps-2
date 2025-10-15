@@ -1,6 +1,6 @@
-package br.insper.edu.sistema_bancario.service;
+package br.insper.edu.sistema_bancario.cliente;
 
-import br.insper.edu.sistema_bancario.model.Cliente;
+import br.insper.edu.sistema_bancario.contaCorrente.ContaCorrenteService;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,8 +1,6 @@
-package br.insper.edu.sistema_bancario.controller;
+package br.insper.edu.sistema_bancario.contaCorrente;
 
-import br.insper.edu.sistema_bancario.model.ContaCorrente;
-import br.insper.edu.sistema_bancario.model.Movimentacao;
-import br.insper.edu.sistema_bancario.service.ContaCorrenteService;
+import br.insper.edu.sistema_bancario.movimentacao.Movimentacao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.Collection;
