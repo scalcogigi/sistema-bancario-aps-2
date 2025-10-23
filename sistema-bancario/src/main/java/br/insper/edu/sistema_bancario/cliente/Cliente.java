@@ -12,7 +12,7 @@ public class Cliente {
 
     private ContaCorrente conta;
 
-    public Cliente() {} // construtor vazio
+    public Cliente() {}
 
     public Cliente(String cpf, String nome, LocalDate dataNascimento, Float salario) {
         this.cpf = cpf;
